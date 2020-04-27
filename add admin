@@ -4,8 +4,8 @@ import csv
 import pymysql.cursors
 connection = pymysql.connect(host='35.171.94.111',
                         port=3307,
-                        user='nada.mahamdah',
-                        password='tPKxF?U4$H^NF^fN',
+                        user='',
+                        password='',
                         db='harri3_live',
                         cursorclass=pymysql.cursors.DictCursor);
 
